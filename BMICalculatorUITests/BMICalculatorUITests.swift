@@ -40,3 +40,4 @@ class BMICalculatorUITests: XCTestCase {
         }
     }
 }
+

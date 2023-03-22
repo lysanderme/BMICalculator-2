@@ -27,3 +27,4 @@ class BMICalculatorUITestsLaunchTests: XCTestCase {
         add(attachment)
     }
 }
+
